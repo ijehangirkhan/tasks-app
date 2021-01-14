@@ -1,0 +1,7 @@
+.task-message {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.done {
+  text-decoration: line-through;
+}

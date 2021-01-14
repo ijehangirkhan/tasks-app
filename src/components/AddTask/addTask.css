@@ -1,0 +1,13 @@
+.addInput {
+  outline: none;
+  border-radius: 10px;
+  padding: 3px 6px;
+}
+
+.addButton {
+  border-radius: 10px;
+  padding: 3px 6px;
+  background: none;
+  border: none;
+  outline: none;
+}
